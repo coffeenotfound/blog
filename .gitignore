@@ -4,3 +4,5 @@ public-dev/
 # Production build dir (because it's its own repo)
 # production/
 
+content-private/
+
