@@ -1,3 +1,6 @@
-# Production gen dir (because it's its own repo)
-public/
+# Dev build dir (shouldn't be committed as it's pretty volatile, also might contain rendered drafts)
+public-dev/
+
+# Production build dir (because it's its own repo)
+# production/
 
