@@ -1,8 +1,8 @@
+# Private content dir
+content-private/
+
 # Dev build dir (shouldn't be committed as it's pretty volatile, also might contain rendered drafts)
 public-dev/
 
 # Production build dir (because it's its own repo)
-# production/
-
-content-private/
-
+production/
